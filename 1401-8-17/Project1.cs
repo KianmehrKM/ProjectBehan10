@@ -28,8 +28,6 @@ namespace Proj1
                 Console.WriteLine("All digits are equal!");
 
             Console.ReadKey();
-
-            // End of program
         }
     }
 }
