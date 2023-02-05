@@ -1,12 +1,15 @@
-# ProjectBehan
+# PROJECTBEHAN
+---
 # FAQ
-What is this about?
-Uploading my school coding projects to here.
+س: قضیه این ریپازیتوری توی گیت هاب چیست؟
+ج: اشتراک گذاشتن کد های مختلفی که در مجتمع آموزشی بهان، در کلاس های برنامه نویسی یاد داده شده، به اشتراگ گذاشته بشود.
 
-Will there be an English version?
-Yes, in another repository.
+س: ترتیب بنذی این پروژه ها بر چه اساسی است؟
+ج: ترتیب بنذی این پروژه ها بر اساس تاریخ تقویم هجری شمسی می باشد.
+
+س: آیا نسخه انگلیسی از این پروژه ها وجود دارد؟
+ج: فعلا خیر، ولی در آینده ممکن است موجود باشد.
 
 ---
-این پروژه ها فقط فارسی هستند، نسخه انگلیسی آنها در جایی دیگر قرار خواهد گرفت.
 
-This repository is only in Persian (Farsi), there will be an English version in another repository.
+The English version of this repository may be available someday in the future.
