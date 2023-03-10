@@ -11,5 +11,10 @@
 ج: فعلا خیر، ولی در آینده ممکن است موجود باشد.
 
 ---
+# ANNOUNCEMENT
 
+از تاریخ 19 اسفند 1401، از صورت سوال ها عکس گرفته نمی شود!
+فقط جواب یا همان کد های مورد نظر مربوط به اون تاریخ آپلود می شود.
+
+---
 The English version of this repository may be available someday in the future.
