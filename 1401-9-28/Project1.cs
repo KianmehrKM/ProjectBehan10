@@ -1,6 +1,6 @@
 using System;
 
-namespace ConsoleApp31
+namespace RGBProj1
 {
     class Program
     {
@@ -33,19 +33,25 @@ namespace ConsoleApp31
                 Console.WriteLine("It's Green!");
             }
 
-            //
+            // Vali agar B koochik ya bozorg bood
+            // Rang text ro aabi kone va bad bege ke aabi hastesh
             else if ((color=='B')||(color=='b'))
             {
                 Console.ForegroundColor = ConsoleColor.Blue;
                 Console.WriteLine("It's Blue!");
             }
 
+            // Dar soorati ke R, G ya B bood
+            // Benevise ke jozve 3 rang asli nistesh va hamin ro chap bokone
+            // Pas hich kari nemikone va in 2 ta payam ro chap mikone
             else
             {
                 Console.WriteLine("The entered letter does not require nor match with R, G, or B.");
                 Console.WriteLine("No color would be displayed.");
             }
 
+            // Payane barnameh
+            // KIANMEHR KIMIAVI
             Console.ReadKey();
         }
     }
